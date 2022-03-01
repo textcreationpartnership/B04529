@@ -1,0 +1,280 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A narrative of the progress of his most Christian Majesties armes against the Dutch, with the names of the several places taken. Liewise a letter from his said Majesty to the Queen of France, giving an account of his passing the Rhine at Tolhuys : with a list of the French nobility killed and wounded in that action.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04529</idno>
+            <idno type="STC">Wing N222</idno>
+            <idno type="STC">ESTC R223309</idno>
+            <idno type="EEBO-CITATION">52614800</idno>
+            <idno type="OCLC">ocm 52614800</idno>
+            <idno type="VID">175985</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04529)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175985)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2757:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A narrative of the progress of his most Christian Majesties armes against the Dutch, with the names of the several places taken. Liewise a letter from his said Majesty to the Queen of France, giving an account of his passing the Rhine at Tolhuys : with a list of the French nobility killed and wounded in that action.</title>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed [s.n.],</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>in the year, 1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>His most Christian Majesties letter to the Queen of France, p. 11-13.</note>
+                  <note>Imperfect: print show-through with loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marie-Thérèse, --  Queen, consort of Louis XIV, King of France, 1638-1683 --  Early works to 1800.</term>
+               <term>France. --  Sovereign (1643-1715 : Louis XIV) --  Early works to 1800.</term>
+               <term>Dutch War, 1672-1678 --  Early works to 1800.</term>
+               <term>France --  Foreign relations --  Netherlands --  Early works to 1800.</term>
+               <term>Netherlands --  Foreign relations --  France --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175985:1" rendition="simple:additions"/>
+            <p>A NARRATIVE Of the Progreſs of His Moſt CHRISTIAN MAJESTIES ARMES AGAINST THE DUTCH, VVith the Names of the ſeveral Places taken.</p>
+            <p>Likewiſe, A LETTER from his ſaid Majeſty to the QUEEN of <hi>France,</hi> giving an Account of his paſsing the <hi>Rhine</hi> at <hi>Tolhuys:</hi> With a Liſt of the French Nobility killed and wounded in that Action.</p>
+            <p>
+               <hi>EDINBURGH,</hi> Re-printed in the Year, 1672.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:175985:2"/>
+            <pb n="3" facs="tcp:175985:2"/>
+            <head>A NARRATIVE OF His Moſt Chriſtian MAJESTIES Conqueſts obtained over the DUTCH; with the Names of the ſeveral Places taken.</head>
+            <head type="sub">Likewiſe a Letter from His ſaid Majeſty to the Queen of <hi>France.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou have with too much impatience, expected the opening of this Cam<g ref="char:EOLhyphen"/>pagne, to be any longer deprived of the Account of thoſe proſperous be<g ref="char:EOLhyphen"/>ginnings which have already ſigna<g ref="char:EOLhyphen"/>lized it, wherein the Succeſs of the King hath evidenced and aſſerted the Juſtice of his Arms. How<g ref="char:EOLhyphen"/>ever, Hiſtorians are oblieged to a more then ordinary diligence, to be able to keep pace with that ſwift courſe
+<pb n="4" facs="tcp:175985:3"/>of Victory that attends his Majeſty. We ſcarce had heard, that this glorious Monarch was preparing to undertake an action of the higheſt reputation to his deſigns, but that we were immediately told he had gone through with it, with all the advantage imaginable; but I fear I do too long provoke your appetite, it is now time to ſatisfie it. I ſhall enter upon the matter with the particulars of the de<g ref="char:EOLhyphen"/>feat of a conſiderable part of the Garriſon of <hi>Rhineberg,</hi> which was but a praeludium to the reſt.</p>
+            <p>The Vicount <hi>de Turenne</hi> (being arrived the Twenty ninth of <hi>May</hi> with a Body of Horſe, at a ſmall Place ſcituate upon the <hi>Rhine,</hi> within a Leage of <hi>Keiſerwart,</hi> belonging to the Elector of <hi>Cologne,</hi> which they began to fortifie towards the River) went to ſee part of the Kings Troops, to the number of 10000 Men, who lay intrenched near the Head of a great Bridge of Boats which they had fitted up in that Place, beſides another built over the <hi>Rhine,</hi> which is of a particular make, and is defended by a Float<g ref="char:EOLhyphen"/>ing Redoubt, that bears both Men and Artillery.</p>
+            <p>After having well viewed theſe Troops, which he found in excellent order, he appointed the Count <hi>Montai</hi> (that Commanded them) to go the next night and diſcover the Countrey, in order to the Armies marching ſecurely by <hi>Rhineberg,</hi> and <hi>Burick,</hi> up to <hi>Weſel.</hi> The Count ſet out to execute this Command with 200 Horſe, belong<g ref="char:EOLhyphen"/>ing to His Majeſties Guards, under the Command of the Sieur <hi>Mombrun,</hi> Captain Lieutenant of the ſecond Com<g ref="char:EOLhyphen"/>pany of the Kings Muskettiers, with the like number of Light Horſmen under the Command of the Marqueſs of S. <hi>Gelais,</hi> Colonel of the Regiment of <hi>Dauphine,</hi> and Thirty Dragoons.</p>
+            <pb n="5" facs="tcp:175985:3"/>
+            <p>After having marched all night, he arrived next morn<g ref="char:EOLhyphen"/>ing by break of day at <hi>Abbaye de Camp,</hi> within a League of <hi>Rhineberg,</hi> where he heard, That the Garriſon of that Town went out very often to cut Wood, in the adjoyn<g ref="char:EOLhyphen"/>ing Forreſt which belongs to the Elector of <hi>Cologne,</hi> for the making of their Paliſadoes, and deſiring to make his advantage of it for the Kings ſervice, he reſolved to lay an Ambuſh for them about a League and an half from the Abbey. To that end, he went to a place which was ſhewed him by his Guides, but not finding that convenient, he would chuſe one nearer to <hi>Rhineberg:</hi> ſo leaving his Troops there, he onely took with him three of the Guard, as many Musketieres and ſix Dragoons, with whom were the ſaid Sieur <hi>de Mombrun,</hi> the Count <hi>de Druy,</hi> the Che<g ref="char:EOLhyphen"/>valier <hi>de Bethune;</hi> theſe two ſerving as Adjutants, and the Sieur <hi>de Bois</hi> aid Major of <hi>Charle Roy.</hi>
+            </p>
+            <p>Being come into a cloſe Road, he diſcovered 150 Muſ<g ref="char:EOLhyphen"/>quettiers which came from <hi>Rhineberg;</hi> whereupon (For<g ref="char:EOLhyphen"/>tune ſeeming ſo to favour his Deſign) he ſent back the ſaid Sieur <hi>de Mombrun</hi> in all haſt to his Troops, to bring him a 100 Horſmen and the Dragoons, hiding himſelf in the mean while from being ſeen. But the Enemy con<g ref="char:EOLhyphen"/>tinuing their march on that ſide where he was, he com<g ref="char:EOLhyphen"/>manded the three Muskettiers and ſix Dragoons that were with him to light of their Horſes, and go into a Ditch, hard by the way. But the Vantguard of the enemy, which marched near 50 paces diſtance from their Body, perceiving them, and crying out, <hi>Who are you for?</hi> they fired at them.</p>
+            <p>The Enemy immediately filled all the way, and diſ<g ref="char:EOLhyphen"/>covered the Count of <hi>Montal,</hi> who was forced to charge them with thoſe few people he had with him, who brave<g ref="char:EOLhyphen"/>ly broke through them, after having received great part
+<pb n="6" facs="tcp:175985:4"/>of their ſhot, and got between two Hedges very thick ſet with Buſhes, that grew all along on the ſides of the Ditches.</p>
+            <p>The noiſe haſtned forward the Sieur <hi>de Mombrun,</hi> with the Troop of Genſdarms, conſiſting of fifty Men, who ſet upon the <hi>Hollanders;</hi> but they (without being any way diſordered) going into the Ditches, ſhot ſo thick, that he was forced to cauſe all his Dragoons, Genſdarms, and the Kings Muskettiers to light off their Horſes.</p>
+            <p>The Enemy ſeeing that, and that the other Troop of Light-Horſmen came on, began to think of taking the ſafeſt courſe, which was to retreat croſs a Corn Field, to other Hedges which were yet ſtronger; by the means of which, they might get into <hi>Rhineberg,</hi> not imagining that our people ſhould have been able to paſs a Ditch ten foot deep.</p>
+            <p>But Fortune preſented a Paſſage to the Count of <hi>Mon<g ref="char:EOLhyphen"/>tal,</hi> which he leaped over with his Horſe, being followed but by a few, by reaſon of its difficulty; and thoſe that were on foot, getting over in other places, the <hi>Hollanders</hi> ſaw the way was intercepted, and ſo were forced to return to their old poſt, whence they continued their ſhooting; but were immediatly ſet upon by thoſe that were on foot, and by the Fifty Light Horſmen, at the Head of which, was the Sieur St. <hi>Gelays,</hi> and at the ſame time the Count <hi>de Montal</hi> fell upon them in the way, where every one behaved himſelf ſo gallantly, that they came up to one another, till at laſt the <hi>Hollanders</hi> were forced to call for Quarter, after having had Fifty of their number killed. So the reſt were made priſoners, the greateſt part of which were wounded, in which number were a Lieutenant, two Enſigns, a Lieutenant-Colonel, that commanded the
+<pb n="7" facs="tcp:175985:4"/>party; the Governor of <hi>Rhineberg's</hi> Son in Law, who was wounded in the Body with two Musket ſhots. The Count <hi>de Montal,</hi> brought them that night to the Camp, where he found the Vicount <hi>de Turenne,</hi> and the Marqueſs <hi>de Louvoy,</hi> who were extreamly ſatisfied with the ſucceſs they had againſt the Enemy, who were almoſt equal in number to the Aſſailants, and had beſides an unqueſtion<g ref="char:EOLhyphen"/>able advantage of the Ground.</p>
+            <p>And one may juſtly ſay, That never did Soldiers fight with greater courage then theſe did on this occaſion, as if they had repreſented to themſelves, that it was the firſt exploit of the Campagne, and were thence encouraged to ſignalize in a particular manner their Zeal and Valor. But the Sieur <hi>de Mombrun,</hi> the Marqueſs of St. <hi>Gelays,</hi> the Chevaliers <hi>de Bethune</hi> and <hi>de Marſillac,</hi> and ſeveral others, were prodigal of their perſons, in imitation of the Count <hi>de Montal,</hi> who hath merited the greateſt ſhare of glory, by his wiſe conduct and forward valor in this Action: Which is ſo much the more memorable, in that there was killed on our ſide but two private Soldiers, three of the Kings Muskettiers, one <hi>Guarde du Corps,</hi> ſome Horſemen, and three Horſes. There were two Dragoons wounded, and the Chevalier <hi>de Marſillac</hi> Cornet of Light-horſe, who was ſhot in the Body with a Piſtol, but if he eſcape, we ſhall obtain a Victory at a very eaſie rate, and teach our Enemies not to dare to venture out while our Troops are abroad. But I ſhall leave this, for to give an account of the Conqueſt of four Towns, which were almoſt as ſoon taken as attempted. I here ſend you the firſt Advices from the Camp, ſtill expecting the farther particulars.</p>
+            <p>The King having reſolved the 30. paſt to form theſe four Sieges, arrived the 2. inſtant about nine in the mor<g ref="char:EOLhyphen"/>ning
+<pb n="8" facs="tcp:175985:5"/>before <hi>Orſoy;</hi> that day being ſpent in obſerving the Scituation of the place, it was reſolved, to begin the Siege the night following: Which was put in execution about ten at night, according to the Orders of the Duke of <hi>Or<g ref="char:EOLhyphen"/>leans,</hi> to whoſe care his Majeſty had committed the Con<g ref="char:EOLhyphen"/>duct of this Attack, whilſt the Prince of <hi>Conde</hi> beſieged <hi>Weſel,</hi> the Viſcount <hi>Turenne Burick,</hi> and the reſt of the Troops <hi>Rhineberg,</hi> whither his Majeſty was gone himſelf to the Cavalry, commanded to inveſt that place, and their ſeveral Poſts, afterwards returned to <hi>Orſoy.</hi> It was order<g ref="char:EOLhyphen"/>ed to make two real, and two falſe Attacks, the former to be commanded by the Duke of <hi>Roanez,</hi> Lieutenant-Ge<g ref="char:EOLhyphen"/>neral, the Chevalier <hi>de Lorrain, Maiſtre de Camp,</hi> and the Marquis <hi>de Beringhen,</hi> Colonel; and the falſe Attacks to be made by two Companies of the Kings Regiment, un<g ref="char:EOLhyphen"/>der the conduct of the Count <hi>de St. Geran,</hi> and the Mar<g ref="char:EOLhyphen"/>quis <hi>de Mouſſy.</hi> The Aſſault was made with ſo much vi<g ref="char:EOLhyphen"/>gour and bravery, that they began to lodge their Men at the foot of the Counterſchape, the Breach having been made at the head of it.</p>
+            <p>His Majeſty, who no more ſpares himſelf than the leaſt Officer or Soldier of his Troops, reſolved, being accompa<g ref="char:EOLhyphen"/>nyed by <hi>Monſieur,</hi> to obſerve himſelf the opening of this Breach, behind a ſmall Battery, to preſerve him from the Cannon of the Enemy, though with ſo little ſecurity, that the <hi>Chevalier d' Arquien</hi> was killed there upon the place.</p>
+            <p>As well the Beſiegers as the Beſieged, continued ſhoot<g ref="char:EOLhyphen"/>ing very furiouſly all night; the beſieged not being want<g ref="char:EOLhyphen"/>ing to make ſome reſiſtance to favour the humour of the <hi>French,</hi> to whom no Action ſeems to merit any Honour, that is not accompanyed with ſome difficulty.</p>
+            <pb n="9" facs="tcp:175985:5"/>
+            <p>About Nine next Morning, Monſieur ſent a Trumpet<g ref="char:EOLhyphen"/>ter with the Count of <hi>Grammont</hi> to Summon the Town, but notwithſtanding that, he aſſured the Governor, that they could not hold out two dayes longer, and in caſe he deferred to Surrender the Place, that all the Garriſon ſhould be put to the Sword, and the Town left to the Pillage of the Soldiers: The ſaid Governor anſwered with all the Courage poffible, That the <hi>States General</hi> had not entruſted him to that Poſt, to quit it ſo eaſily. But, notwithſtanding this <hi>Dutch</hi> Bravado, he quickly cooled, and was oblidged to ſurrender the Place, upon no other Termes, then that he and his Garriſon ſhould remai<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Priſoners of War.</p>
+            <p>All thoſe that were employed in this Attack, ſtrove to out-doe each the other in performing wonders; The Count <hi>de Grancé,</hi> and the Sieur <hi>de St. Hilaire,</hi> were dangerouſly wounded with Musket-ſhot, the one in the Knee, and the other in the Reines. The <hi>Sieur de Beau<g ref="char:EOLhyphen"/>viré</hi> Captain in the <hi>Dolphins</hi> Regiment was Mortally wounded, the <hi>Count de Valin</hi> was killed, with a Lieutenant, about Eight common Soldiers, there having been onely Five wounded.</p>
+            <p>The Fourth Inſtant, the Viſcount <hi>Turenne,</hi> who had opened the Trenches before <hi>Buricke</hi> the day before, came early in the morning to acquaint His Majeſty with the taking of that Place, on <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ditions that <hi>Orſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> was; The ſame day the <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſent likewiſe to give <hi>His Majeſty</hi> an Account of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Surrender of <hi>Weſel</hi> upon the firſt Attack they had made on the Fort on the <hi>Lippe</hi> not farr from the ſaid Place.</p>
+            <p>So that only <hi>Rhynbergh</hi> remained untaken, where in was reſolved to open the Trenches the next day, at night,
+<pb n="10" facs="tcp:175985:6"/>but the loſs of theſe three other places had ſo diſhearten<g ref="char:EOLhyphen"/>ed the Garriſon of this, that not daring to expect an At<g ref="char:EOLhyphen"/>tack, they Implored the <hi>Kings Mercy,</hi> who accordingly permitted the Garriſon to draw out the next morning with Drums beating, Colours flying, and with their Baggage, having ordered a Convoy to conduct them to <hi>Maeſtricht.</hi>
+            </p>
+            <p>Thus Victory and Glory delight to heap their Crowns upon the head of this great Monarch, who with ſo much ardor undergoes the Toiles of the Warr, that he ſeemes to Merit the Favors of the one and the other, having ſub<g ref="char:EOLhyphen"/>jected under his Power Four Places, in ſo ſmall a time, and with the Loſſe onely of 100 Men, who have been kil<g ref="char:EOLhyphen"/>led in theſe Actions.</p>
+            <div type="part">
+               <opener>
+                  <dateline>From the <hi>Rhine</hi> near <hi>Weſel,</hi> 
+                     <date>June <hi>9.</hi>
+                     </date>
+                  </dateline>
+               </opener>
+               <p>THe Eighth Inſtant His <hi>Moſt Chriſtian Majeſty</hi> arri<g ref="char:EOLhyphen"/>ved at <hi>Oſſembergh,</hi> where he received advice from the Viſcount <hi>de Turenne,</hi> That <hi>Rees</hi> had Surrendred upon the firſt approach of the <hi>French</hi> Troops, without making the Leaſt reſiſtance; And the ſame day the Prince of <hi>Condé</hi> ſent to acquaint <hi>His Majeſty</hi> with the taking of <hi>Emme<g ref="char:EOLhyphen"/>ricke.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>From the Camp at <hi>Rees,</hi> 
+                     <date>June <hi>10.</hi>
+                     </date>
+                  </dateline>
+               </opener>
+               <p>HIs <hi>Moſt Chriſtian Majeſty</hi> arrived here, having re<g ref="char:EOLhyphen"/>ceived Advice, that the Sieur <hi>de Beauviré</hi> with 600 Horſe, and 100 Dragoons had taken <hi>Doetechem,</hi> and on the other ſide the Sieur <hi>de Choiſeul</hi> had taken the Caſtle of <hi>
+                     <g ref="char:V">Ʋ</g>lm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> and in it 150 Soldiers, whom he made Priſoners.</p>
+            </div>
+            <div type="letter">
+               <pb n="11" facs="tcp:175985:6"/>
+               <head>
+                  <hi>His</hi> Moſt Chriſtian Majeſties <hi>LET<g ref="char:EOLhyphen"/>TER to the</hi> QUEEN <hi>of</hi> France.</head>
+               <opener>
+                  <dateline>From the <hi>Rhyne</hi> near <hi>Tolhuys.</hi>
+                  </dateline>
+               </opener>
+               <p>YEſterday before Night I receiv'd the News of the taking of <hi>Groll</hi> by the <hi>Biſhop</hi> of <hi>Munſter,</hi> who beſieg<g ref="char:EOLhyphen"/>ed it in Perſon with the Forces of the Elector of <hi>Cologne</hi> and his own, Commanded by Monſieur <hi>de Luxembourg,</hi> 'tis one of the beſt places the <hi>Hollanders</hi> had, it held out but four dayes. The Prince having given me an Account of the Fords and Paſſages that I had ordered him to diſ<g ref="char:EOLhyphen"/>cover along the <hi>Rhine,</hi> from <hi>Schenck</hi> as far as <hi>Arnheim;</hi> I paſſed through <hi>Rees</hi> with my <hi>Gensd'armes,</hi> and came into his Camp near <hi>Emmerick,</hi> where I ſupp'd; and, as ſoon as I roſe from Table, took Horſe together with him, after I had given Orders for the drawing out of a Thou<g ref="char:EOLhyphen"/>ſand of his Foot, and the Marching of a body of Horſe and Dragoons with ſome Artillery, and the Boats for Tranſportation, and arrived this morning before day. I had with me a Guide that knew exactly all the Fords of this River, upon whoſe Information <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Commanded the Count <hi>de Guiche</hi> to diſcover a part of it over againſt a place called <hi>Tolhuys,</hi> which upon triall he found Fordable. I plant<g ref="char:EOLhyphen"/>ed two Batteries upon the Banck of the <hi>Rhine</hi> to play upon them that ſhould offer to oppoſe the Horſe I intended to ſend over on the Right and Left of the Batteries, while I was making a Bridge of <hi>Boats</hi> in the mean time to paſſe o<g ref="char:EOLhyphen"/>ver the Foot upon; upon the Information brought me by the Count <hi>de Guiche,</hi> I commanded Two Thouſand Horſe of the Left Wing to paſſe the River under the com<g ref="char:EOLhyphen"/>mand
+<pb n="12" facs="tcp:175985:7"/>of the ſaid Count, at the Ford which he had diſco<g ref="char:EOLhyphen"/>vered over againſt <hi>Tolhuys,</hi> The Regiment of <hi>Cuirasſiers</hi> was to paſſe firſt, of which ten or twelve commanded men to paſſe over, ſometimes by Fording it, and ſome<g ref="char:EOLhyphen"/>times by Swimming, eſpy'd Three Squadrons advanc<g ref="char:EOLhyphen"/>ing towards them from behind the Hedges and Willowes and were at firſt briskly charged by the Officers of the firſt Squadron, they Drawing back ſome few ſteps in the River, till thoſe that followed to ſecond them could come up, made their way afterwards with their Swords in their hands ſo bravely and reſolutely, that the Second and Third Squadron (with the fright of it) diſcharged at random in the Air, and ran. The firſt, which hitherto had ſet a good face upon it, gave back as well as the other, to which the continual Fire of our Canon did not a little con<g ref="char:EOLhyphen"/>tribute; and now the reſt of the Horſe were all paſſed o<g ref="char:EOLhyphen"/>ver at the Ford, one party of them advanced towards the Enemy under the Command of the Count <hi>de Guiche,</hi> and the reſt ſtood in Battalia on the Bank of the River.</p>
+               <p>This Action was accompanyed with all the Succeſs and Glory we could deſire, having loſt very few Horſe in the Paſſage. <hi>Nogent</hi> being the onely Perſon of Note that was drowned: But afterwards, as ill Fortune would have it, the Prince, to whom I had ſent, not to paſſe the River, was already gone, before my Orders reach'd him, in a ſmall Boat, to ſee what Men we ſhould put into the Caſtle of <hi>Tolhuys,</hi> and to informe himſelf better of what paſſed on the other ſide of the Water; ſo that not knowing any thing of my Deſign, and ſeeing the Prince of <hi>Condé</hi> and Duke <hi>de Longueville</hi> advance upon the Spur towards a Barricade, where the Three Squadrons I mention'd before had joyn'd themſelves with ſome other
+<pb n="13" facs="tcp:175985:7"/>Horſe and Foot, he made all the haſte he could thither, and was follow'd by ſeveral others, who now began to keep no Meaſures, after ſuch an Example.</p>
+               <p>At firſt, the Prince, and thoſe other Gentlemen aſtoni<g ref="char:EOLhyphen"/>ſhed the Enemy with their Threatnings, and their Pre<g ref="char:EOLhyphen"/>ſence, and beſides the Count <hi>de Guiche</hi> ſurpriſing them in the Reare with ſome Squadrons, had preſſed them ſo cloſe, that they put themſelves in a poſture of yielding, on Condition they might have Fair Quarter<g ref="char:punc">▪</g> But, Monſieur <hi>de Longueville</hi> having paſſed the Barricade, and crying, Kill, kill, No Quarter; and, as ſome ſay, diſcharged a Piſtoll upon them; out of pure deſpair they made one Volley more, in which the Prince of <hi>Condé</hi> had the bone of his Left wreſt broken, Monſieur <hi>de Longueville</hi> and <hi>Guitry</hi> were killed upon the Spot, and ſeverall others were killed and wound<g ref="char:EOLhyphen"/>ed, which you will ſee in the following Liſt. If we had had a little patience, not one of thoſe men had eſcaped our hands, the <hi>Comte de Guiche</hi> had begirt them cloſe on one ſide, and ſhould have fallen upon them on the other with the other Squadrons, and the Foot which by this time were almoſt all paſſed in their Boats; whereas through our own precipitation, the routing them has coſt us very dear; this excepted all things are in a very good condition as to the <hi>Bettaw,</hi> and I have much cauſe to praiſe God for the happy Succeſs of this Enterprize, and to promiſe my ſelf great advantages by it.</p>
+            </div>
+            <div type="list">
+               <pb n="14" facs="tcp:175985:8"/>
+               <head>Dead <hi>and</hi> Wounded.</head>
+               <list>
+                  <head>Dead.</head>
+                  <item>Monſieur <hi>de Longueville. de Guitry.</hi>
+                  </item>
+                  <item>
+                     <hi>De Nogent,</hi> drowned.</item>
+                  <item>
+                     <hi>Danbuſſon.</hi>
+                  </item>
+                  <item>Marq. <hi>de Too<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>on.</hi>
+                  </item>
+                  <item>
+                     <hi>Brouilly</hi> mortally wounded.</item>
+                  <item>Some Gentlemen wounded.</item>
+                  <item>The Chevalier <hi>des Eſsars,</hi> dead of his Wounds.</item>
+               </list>
+               <list>
+                  <head>Wounded.</head>
+                  <item>The Prince his Wriſt broken.</item>
+                  <item>Monſ. <hi>de Marſillac</hi> his Shoulder-Bone broken.</item>
+                  <item>Monſ. <hi>de Vivo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ne</hi> loſt his Hand.</item>
+                  <item>The Comte <hi>de Sauls,</hi> wounded in the Chin.</item>
+                  <item>
+                     <hi>De Beringhen</hi> through <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Body.</item>
+                  <item>The Duke <hi>de Coaſtin</hi> his Ha<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> broken.</item>
+                  <item>
+                     <hi>Termes</hi> cut croſs the Face.</item>
+                  <item>
+                     <hi>La Salle Ayde de Camp</hi> F<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Wounds with a Sword.</item>
+                  <item>
+                     <hi>Re<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>elle,</hi> of the Cuiraſſie wounded in three places.</item>
+                  <item>
+                     <hi>Du Meſnil Montanban,</hi> wou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ded with a Partizan.</item>
+                  <item>The Marq. <hi>D<hi rend="sup">e</hi> A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>beterre.</hi>
+                  </item>
+                  <item>The Marq. <hi>de Manrevert,</hi> F<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> wounds.</item>
+                  <item>
+                     <hi>Beauvan, Ayde de Camp <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi> Monſ. <hi>Rochefort,</hi> wound<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> in the Face.</item>
+               </list>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:175985:8" rendition="simple:additions"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
